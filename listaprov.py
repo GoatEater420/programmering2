@@ -7,5 +7,5 @@ talen.pop (0)
 talen.insert (0, 77)
 
 print(max(talen))
-
+print(sum(talen))
 print (talen)
